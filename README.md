@@ -11,13 +11,18 @@ Below i put link to my portfolio and its credential to test
 # Point Of Sale System
 
 <li> http://bigfoodfnb.biz/southcafe/ </li>
-Credentials
+Credentials<br>
            Username : annisa
+           <br>
            PassWord: 123456
+           <br>
            
 <li> http://bigfoodfnb.biz/invoiceSystem/ </li>
 Credentials
+<br>
           Username: annisaabuhamid@gmail.com
+          <br>
           Password: 123
+          <br>
           
 # *for the wordpress plugin system development is under wordpress. Please request credential to see the project.
