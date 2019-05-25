@@ -5,18 +5,18 @@ Below i put link to my portfolio and its credential to test
 # Informational Website
 
 <li> http://bigfoodfnb.biz/MIC/ </li>
-http://bigfoodfnb.biz/Motobina/
-http://bigfoodfnb.biz/emeraldBiz/
+<li> http://bigfoodfnb.biz/Motobina/ </li>
+<li> http://bigfoodfnb.biz/emeraldBiz/ </li>
 
 # Point Of Sale System
 
-http://bigfoodfnb.biz/southcafe/
-
+<li> http://bigfoodfnb.biz/southcafe/ </li>
+Credentials
            Username : annisa
            PassWord: 123456
            
-http://bigfoodfnb.biz/invoiceSystem/
-
+<li> http://bigfoodfnb.biz/invoiceSystem/ </li>
+Credentials
           Username: annisaabuhamid@gmail.com
           Password: 123
           
