@@ -14,7 +14,7 @@ Below i put link to my portfolio and its credential to test
 Credentials<br>
            Username : annisa
            <br>
-           PassWord: 123456
+           Password: 123456
            <br>
            
 <li> http://bigfoodfnb.biz/invoiceSystem/ </li>
